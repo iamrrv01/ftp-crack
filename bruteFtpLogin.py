@@ -41,4 +41,3 @@ host = input('Enter target IP: ')
 passwdFile = "UserAndPass.txt"
 portScan(host)
 
-            
